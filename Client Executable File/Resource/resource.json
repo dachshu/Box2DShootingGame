@@ -1,0 +1,90 @@
+[
+    {
+      "path" : "Resource\\bg.bmp",
+      "name" : "bg"
+    },
+    {
+      "path" : "Resource\\redQ.bmp",
+      "name" : "redQ"
+    },
+    {
+      "path" : "Resource\\redX.bmp",
+      "name" : "redX"
+    },
+    {
+      "path" : "Resource\\redD.bmp",
+      "name" : "redD"
+    },
+    {
+      "path" : "Resource\\redT.bmp",
+      "name" : "redT"
+    },
+    {
+      "path" : "Resource\\redH.bmp",
+      "name" : "redH"
+    },
+    {
+      "path" : "Resource\\redM.bmp",
+      "name" : "redM"
+    },
+    {
+      "path" : "Resource\\blueQ.bmp",
+      "name" : "blueQ"
+    },
+    {
+      "path" : "Resource\\blueX.bmp",
+      "name" : "blueX"
+    },
+    {
+      "path" : "Resource\\blueD.bmp",
+      "name" : "blueD"
+    },
+    {
+      "path" : "Resource\\blueT.bmp",
+      "name" : "blueT"
+    },
+    {
+      "path" : "Resource\\blueH.bmp",
+      "name" : "blueH"
+    },
+    {
+      "path" : "Resource\\blueM.bmp",
+      "name" : "blueM"
+    },
+    {
+      "path" : "Resource\\deal.bmp",
+      "name" : "deal"
+    },
+    {
+      "path" : "Resource\\heal.bmp",
+      "name" : "heal"
+    },
+    {
+      "path" : "Resource\\tank.bmp",
+      "name" : "tank"
+    },
+    {
+      "path" : "Resource\\deal_disable.bmp",
+      "name" : "deal_disable"
+    },
+    {
+      "path" : "Resource\\heal_disable.bmp",
+      "name" : "heal_disable"
+    },
+    {
+      "path" : "Resource\\tank_disable.bmp",
+      "name" : "tank_disable"
+    },
+    {
+      "path" : "Resource\\dealX.bmp",
+      "name" : "dealX"
+    },
+    {
+      "path" : "Resource\\healX.bmp",
+      "name" : "healX"
+    },
+    {
+      "path" : "Resource\\tankX.bmp",
+      "name" : "tankX"
+    }
+]
